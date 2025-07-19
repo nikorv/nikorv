@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&color=FFFFFF8&center=true&vCenter=true&width=500&lines=About+me!;Welcome+to+my+Github+profile+🫶;My+name's+Nicholas+😄;Bem+vindo(a)+ao+meu+perfil+do+Github+🫶;Meu+nome+é+Nicholas+😄;I'm+a+fullstack+student+😎;Eu+sou+estudante+fullstack+😎">
   </a>
 </div><br>
-💻 RecodePro - Formação FullStack.<br>👩‍🎓 Graduação em BSI (Incompleta) - FMU.<br> Pronouns: Ele / Dele.<br> Um amor chamado Códigos.<br><br>
+💻 RecodePro - Formação FullStack.<br>👩‍🎓 Graduação em BSI - FMU.<br> Pronouns: Ele / Dele.<br> Um amor chamado Códigos.<br><br>
 
 
 ## 🌐 Socials:
